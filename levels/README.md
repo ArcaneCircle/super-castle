@@ -3,17 +3,17 @@
 ## How to submit a level
 
 1. Make a level using the [level editor][editor]
-2. Copy the *Play Level* link...
-    - and open a pull request, updating this page
-    - or [open an issue][issues] with the link
-    - or tweet it to [@mvasilkov][elonmusk]
+2. Copy the _Play Level_ link...
+   - and open a pull request, updating this page
+   - or [open an issue][issues] with the link
+   - or tweet it to [@mvasilkov][elonmusk]
 
 ## Levels
 
-| | |
-| :---: | :---: |
+|                                                                                                                                                              |                                                                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/push.png?raw=true" width="250" height="250">][push]<br>[Push and Parcel][push] | [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/cut.png?raw=true" width="250" height="250">][cut]<br>[Cut and Paste][cut] |
-| [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/bin.png?raw=true" width="250" height="250">][bin]<br>[Boxed In][bin] | [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/lab.png?raw=true" width="250" height="250">][lab]<br>[Labyrinthine][lab] |
+|      [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/bin.png?raw=true" width="250" height="250">][bin]<br>[Boxed In][bin]      | [<img src="https://github.com/mvasilkov/super2023/blob/master/levels/pictures/lab.png?raw=true" width="250" height="250">][lab]<br>[Labyrinthine][lab]  |
 
 [editor]: https://reirei.neocities.org/editor
 [issues]: https://github.com/mvasilkov/super2023/issues

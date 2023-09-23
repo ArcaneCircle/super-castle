@@ -4,7 +4,7 @@
 
 This is a game about building a castle. Magnificent and sempiternal, the fortress of the mind will rise — and it begins with a single block.
 
-Set in the 13th century, *Super Castle* immerses you in a captivating medieval fantasy world of some description.
+Set in the 13th century, _Super Castle_ immerses you in a captivating medieval fantasy world of some description.
 
 ## How to play
 
@@ -24,14 +24,7 @@ The author of this work does not condone the repackaging of "Super Castle" as an
 
 ## Acknowledgements
 
-- [Solar Icons][sol] by 480 Design, licensed under CC BY 4.0
-
-[play]: https://js13kgames.com/games/super-castle-game/index.html
-[lvl]: https://github.com/mvasilkov/super2023/tree/master/levels
-[nat]: https://github.com/mvasilkov/natlib
-[rei]: https://github.com/mvasilkov
-[gpl]: https://github.com/mvasilkov/super2023/blob/master/LICENSE
-[sol]: https://www.figma.com/community/file/1166831539721848736
+- [Solar Icons][https://www.figma.com/community/file/1166831539721848736] by 480 Design, licensed under CC BY 4.0
 
 ## Contributing
 
