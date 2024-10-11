@@ -30,7 +30,7 @@ The author of this work does not condone the repackaging of "Super Castle" as an
 
 ## Acknowledgements
 
-- [Solar Icons][https://www.figma.com/community/file/1166831539721848736] by 480 Design, licensed under CC BY 4.0
+- [Solar Icons](https://www.figma.com/community/file/1166831539721848736) by 480 Design, licensed under CC BY 4.0
 
 ## Contributing
 
