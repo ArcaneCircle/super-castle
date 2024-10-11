@@ -24,6 +24,7 @@ The author of this work does not condone the repackaging of "Super Castle" as an
 
 ## Acknowledgements
 
+- This is a port of [super-castle](https://github.com/mvasilkov/super2023) written by Mark Vasilkov for js13kGames in 2023.
 - [Solar Icons][https://www.figma.com/community/file/1166831539721848736] by 480 Design, licensed under CC BY 4.0
 
 ## Contributing
