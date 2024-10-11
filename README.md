@@ -2,6 +2,12 @@
 
 > An open mind is like a fortress with its gates unbarred and unguarded.
 
+*Super Castle Game* uses [natlib][nat], a highly composable library for small games.
+
+This is a Webxdc port of [super-castle](https://github.com/mvasilkov/super2023) written by [Mark Vasilkov][https://github.com/mvasilkov] for js13kGames in 2023.
+
+---
+
 This is a game about building a castle. Magnificent and sempiternal, the fortress of the mind will rise — and it begins with a single block.
 
 Set in the 13th century, _Super Castle_ immerses you in a captivating medieval fantasy world of some description.
@@ -24,7 +30,6 @@ The author of this work does not condone the repackaging of "Super Castle" as an
 
 ## Acknowledgements
 
-- This is a port of [super-castle](https://github.com/mvasilkov/super2023) written by Mark Vasilkov for js13kGames in 2023.
 - [Solar Icons][https://www.figma.com/community/file/1166831539721848736] by 480 Design, licensed under CC BY 4.0
 
 ## Contributing
