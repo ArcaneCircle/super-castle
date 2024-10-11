@@ -4,7 +4,7 @@
 
 *Super Castle Game* uses [natlib](https://github.com/mvasilkov/natlib), a highly composable library for small games.
 
-This is a Webxdc port of [super-castle](https://github.com/mvasilkov/super2023) written by [Mark Vasilkov](https://github.com/mvasilkov) for js13kGames in 2023.
+This is a Webxdc port of [super2023](https://github.com/mvasilkov/super2023) written by [Mark Vasilkov](https://github.com/mvasilkov) for js13kGames in 2023.
 
 ---
 
