@@ -21,8 +21,8 @@ type Hashed<T extends string> =
   T extends `${infer Chr0}${infer _Chr1}${infer _Chr2}${infer Chr3}${infer _Chr4}${infer Chr5}${infer _Rest}`
     ? `${Chr0}${Chr3}${Chr5}`
     : T extends `${infer Chr0}${infer _Chr1}${infer _Chr2}${infer Chr3}${infer _Rest}`
-    ? `${Chr0}${Chr3}`
-    : never;
+      ? `${Chr0}${Chr3}`
+      : never;
 
 /** Supported keyboard inputs */
 export const enum Input {
