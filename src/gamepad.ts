@@ -19,13 +19,13 @@ export function getGamepadDirection(): Vec2B | undefined {
           gamepad.axes[0]! < -Settings.GAMEPAD_DEAD_ZONE
             ? -1
             : gamepad.axes[0]! > Settings.GAMEPAD_DEAD_ZONE
-            ? 1
-            : 0,
+              ? 1
+              : 0,
           gamepad.axes[1]! < -Settings.GAMEPAD_DEAD_ZONE
             ? -1
             : gamepad.axes[1]! > Settings.GAMEPAD_DEAD_ZONE
-            ? 1
-            : 0,
+              ? 1
+              : 0,
         );
       }
     }

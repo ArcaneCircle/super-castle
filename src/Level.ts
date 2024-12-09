@@ -230,10 +230,10 @@ export class Level {
       duckState.phase === DuckPhase.MOVING
         ? easeInOutQuad(interpolatePhase(duckState, Settings.MOVE_DURATION, t))
         : duckState.phase === DuckPhase.CONNECTING
-        ? easeInOutQuad(
-            interpolatePhase(duckState, Settings.CONNECT_DURATION, t),
-          )
-        : 0;
+          ? easeInOutQuad(
+              interpolatePhase(duckState, Settings.CONNECT_DURATION, t),
+            )
+          : 0;
 
     const colorDuckEntering =
       "#" +
@@ -722,10 +722,10 @@ export function loadLevel(string: string, external?: ExtendedBool): Level {
   const LevelClass = external
     ? Level
     : duckState.levelIndex === 1
-    ? Level1
-    : duckState.levelIndex === levels.length - 1
-    ? LevelSelect
-    : Level;
+      ? Level1
+      : duckState.levelIndex === levels.length - 1
+        ? LevelSelect
+        : Level;
 
   const level = new LevelClass(width, height, external);
   level.board.load(bigint);

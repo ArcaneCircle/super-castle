@@ -1,4 +1,4 @@
-import { webxdcViteConfig } from "webxdc-vite-plugins";
+import { webxdcViteConfig } from "@webxdc/vite-plugins";
 import { resolve } from "path";
 import { defineConfig } from "vite";
 

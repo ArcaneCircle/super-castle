@@ -2,7 +2,7 @@
 
 > An open mind is like a fortress with its gates unbarred and unguarded.
 
-*Super Castle Game* uses [natlib](https://github.com/mvasilkov/natlib), a highly composable library for small games.
+_Super Castle Game_ uses [natlib](https://github.com/mvasilkov/natlib), a highly composable library for small games.
 
 This is a Webxdc port of [super2023](https://github.com/mvasilkov/super2023) written by [Mark Vasilkov](https://github.com/mvasilkov) for js13kGames in 2023.
 
