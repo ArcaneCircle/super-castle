@@ -109,7 +109,7 @@ export class Level {
     step();
     // .DeadCode
     return;
-    // .EndDeadCode
+    // .End(DeadCode)
   }
 
   discardPiece(piece: Readonly<Piece>) {
@@ -222,7 +222,7 @@ export class Level {
     }
     // .DeadCode
     return;
-    // .EndDeadCode
+    // .End(DeadCode)
   }
 
   render(t: number, tOscillator: number) {
@@ -633,7 +633,7 @@ class LevelSelect extends Level {
     }
     // .DeadCode
     return;
-    // .EndDeadCode
+    // .End(DeadCode)
   }
 
   override render(t: number, tOscillator: number) {
