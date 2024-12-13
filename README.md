@@ -36,7 +36,7 @@ The author of this work does not condone the repackaging of "Super Castle" as an
 
 ### Installing Dependencies
 
-After cloning this repo, install dependecies:
+After cloning this repo, install dependencies:
 
 ```
 pnpm i
@@ -54,8 +54,6 @@ To test your work in your browser (with hot reloading!) while developing:
 
 ```
 pnpm dev
-# Alternatively to test in a more advanced WebXDC emulator:
-pnpm start
 ```
 
 ### Building
